@@ -80,7 +80,7 @@
 ;;;
 ; TRAINING
 ;;;
-(comment 
+;;(comment 
 
   ; this will run forever
   ; exit the process when the value is high enough
@@ -93,4 +93,4 @@
      train-ds
      test-ds
      listener))
-  )
+;;  )

@@ -3,6 +3,7 @@
   :dependencies [[org.clojure/clojure "1.9.0-alpha17"]
                  [thinktopic/experiment "0.9.22"]
                  [org.clojure/tools.cli "0.3.5"]
+                 [thinktopic/think.datatype "0.3.17"]
 
                  ; to manipulate images
                  [thinktopic/think.image "0.4.11"]
